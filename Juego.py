@@ -4,6 +4,8 @@ cant_jugadas=0
 cant_ganadas=0
 cant_perdidas=0
 
+# Juego de piedra, papel o tijera
+
 while cant_jugadas < 3:
   
   op_user = input("Ingrese una operación (piedra , papel o tijera  ")
